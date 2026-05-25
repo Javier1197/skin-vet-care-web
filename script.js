@@ -1,0 +1,1 @@
+console.log("Skin Vet Care - Sistema iniciado correctamente.");
